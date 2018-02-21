@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/aansh/LARS/LocationAwareRecommendationSystem/src/main/scala/NonSpatialRatingsForSpatial/RecommendationGenerator.scala:61:113: not found: value finalInputDf[0m
+[0m[[0m[31merror[0m] [0m[0m    recommendation = TravelPenaltyOperations.calculateKRecommendationFromTravelPenaltyOfDataFrame(sparkSession, finalInputDf, k, lowestRecScore, recommendation, maxPossibleRating, itemCosineSimilarity, userItemRatings, totalUniqueItems, userIDs, items)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
